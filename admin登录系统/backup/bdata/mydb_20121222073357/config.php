@@ -1,0 +1,25 @@
+<?php
+	$b_table="admin,cp,cp_type,link,msg,news,news_type,page_news,web_info";
+	$tb[admin]=1;
+$tb[cp]=1;
+$tb[cp_type]=1;
+$tb[link]=1;
+$tb[msg]=1;
+$tb[news]=1;
+$tb[news_type]=1;
+$tb[page_news]=1;
+$tb[web_info]=1;
+
+	$b_baktype=0;
+	$b_filesize=300;
+	$b_bakline=500;
+	$b_autoauf=1;
+	$b_dbname="mydb";
+	$b_stru=1;
+	$b_strufour=0;
+	$b_dbchar="auto";
+	$b_beover=0;
+	$b_insertf="replace";
+	$b_autofield=",,";
+	$b_bakdatatype=0;
+	?>
